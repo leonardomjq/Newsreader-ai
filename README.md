@@ -7,4 +7,4 @@ Running on Nextjs, using Typescript and Chakra UI design system. [Check demo her
 ☐ Filter list based on percentual change. <br />
 ☐ Change display based on exchange company (Binance, KuCoin, etc).
 
-![Newsletter Demo](public/AlanAi.gif)
+![Newsletter Demo](/public/alanAi.gif)
