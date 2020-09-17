@@ -9,4 +9,4 @@ Examples:<br />
 
 Running on Create-React-App. [Check demo here](https://newsreader-ai.vercel.app/).
 
-![AI voice commands demo](/public/alanAi.gif)
+![AI voice commands demo](/alanAi.gif)
