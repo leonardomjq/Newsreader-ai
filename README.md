@@ -1,5 +1,10 @@
-### Study project using Alan AI and create-react-app
+# Coinfolio 🏳️‍🌈 - Cryptocurrency Portfolio
 
-You can check the [demo here](http://newsreader-ai.vercel.app)
+Running on Nextjs, using Typescript and Chakra UI design system. [Check demo here](https://coinfolio.vercel.app/).
 
-Try asking questions and opening articles.
+### Future updates: 
+☐ Change cryptocurrency color based on percentual. <br />
+☐ Filter list based on percentual change. <br />
+☐ Change display based on exchange company (Binance, KuCoin, etc).
+
+![Newsletter Demo](public/AlanAi.gif)
